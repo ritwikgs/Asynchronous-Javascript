@@ -1,5 +1,5 @@
-### Asynchronous Javascript
+## Asynchronous Javascript
 
-`Callbacks`,
+`Callbacks`
 `Promise`
 `Async Await`
